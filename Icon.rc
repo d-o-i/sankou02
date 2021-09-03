@@ -1,0 +1,2 @@
+#include "Icon.h"
+IDI_ICON1 ICON "data/TEXTURE/Icon.ico"
